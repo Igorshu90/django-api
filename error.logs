@@ -1,0 +1,2 @@
+WARNING:django.request:Bad Request: /Quote/
+WARNING:django.server:"POST /Quote/ HTTP/1.1" 400 49
